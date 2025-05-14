@@ -1,0 +1,12 @@
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\bin\Debug\net9.0\TestProject.Core.deps.json
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\bin\Debug\net9.0\TestProject.Core.dll
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\bin\Debug\net9.0\TestProject.Core.pdb
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.csproj.AssemblyReference.cache
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.AssemblyInfoInputs.cache
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.AssemblyInfo.cs
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.dll
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\refint\TestProject.Core.dll
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\TestProject.Core.pdb
+C:\Users\pc22657\Desktop\TestProject (1)\10.0.1\src\TestProject.Core\obj\Debug\net9.0\ref\TestProject.Core.dll

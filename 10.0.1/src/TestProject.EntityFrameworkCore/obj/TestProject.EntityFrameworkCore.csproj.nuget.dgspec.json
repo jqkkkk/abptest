@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\TestProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\TestProject.Core.csproj",
+        "projectName": "TestProject.Core",
+        "projectPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\TestProject.Core.csproj",
+        "packagesPath": "C:\\Users\\pc22657\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\NuGet.Config",
+          "C:\\Users\\pc22657\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.1.2.201:8080/v3/index.json": {},
+          "http://10.1.2.202/api/v4/projects/9/packages/nuget/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abp-nightly/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj",
+        "projectName": "TestProject.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\pc22657\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\NuGet.Config",
+          "C:\\Users\\pc22657\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.1.2.201:8080/v3/index.json": {},
+          "http://10.1.2.202/api/v4/projects/9/packages/nuget/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abp-nightly/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\abptest\\10.0.1\\src\\TestProject.Core\\TestProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\TestProject.Web.Host\\TestProject.Web.Host.csproj|c:\\users\\pc22657\\desktop\\testproject (1)\\10.0.1\\src\\testproject.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\TestProject.Web.Host\\TestProject.Web.Host.csproj|solutionrelative:src\\testproject.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj|c:\\users\\pc22657\\desktop\\testproject (1)\\10.0.1\\src\\testproject.entityframeworkcore\\entityframeworkcore\\testprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\TestProject.EntityFrameworkCore\\TestProject.EntityFrameworkCore.csproj|solutionrelative:src\\testproject.entityframeworkcore\\entityframeworkcore\\testprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\TestProject.Core\\TestProject.Core.csproj|c:\\users\\pc22657\\desktop\\testproject (1)\\10.0.1\\src\\testproject.core\\organizationwithextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\TestProject.Core\\TestProject.Core.csproj|solutionrelative:src\\testproject.core\\organizationwithextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.Web.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\TestProject.Web.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.Web.Host\\appsettings.json",
+              "RelativeToolTip": "src\\TestProject.Web.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T08:22:10.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.EntityFrameworkCore\\EntityFrameworkCore\\TestProjectDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TestProject.EntityFrameworkCore\\EntityFrameworkCore\\TestProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.EntityFrameworkCore\\EntityFrameworkCore\\TestProjectDbContext.cs",
+              "RelativeToolTip": "src\\TestProject.EntityFrameworkCore\\EntityFrameworkCore\\TestProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:19:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganizationWithExtension.cs",
+              "DocumentMoniker": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.Core\\OrganizationWithExtension.cs",
+              "RelativeDocumentMoniker": "src\\TestProject.Core\\OrganizationWithExtension.cs",
+              "ToolTip": "C:\\Users\\pc22657\\Desktop\\TestProject (1)\\10.0.1\\src\\TestProject.Core\\OrganizationWithExtension.cs",
+              "RelativeToolTip": "src\\TestProject.Core\\OrganizationWithExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:18:41.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
